@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestNotifyFirebase</string>
+    <string name="Firebase_API_Key">AAAALew-NsU:APA91bECI8sxt0qnzbpCqP3kpws2GyVPc0FAbc8KpuIMIqUir11IwCLPmQ7z1R6BASCJR-wJX2SIUb9jEVGvrShosTvNKY-UGExIzhnW9ZStPO_5tA1agrLLGX2XUh_FTHz58N4LUukp</string>
+    <string name="Firebase_Notification_Key">APA91bEUCaziiicxn-i6KfLy8mji_rQdIymR0cAthcWjHSc3Vnpa2Gjhyy-05cm8IhSAQ-GLyzOmNeMibSWon13bfjOIPgHHzyQPj0G4nmozIHHjDJnw2Uc</string>
 </resources>
